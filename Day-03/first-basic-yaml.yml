@@ -1,0 +1,8 @@
+name: 'kalyan'
+age: 28
+employed: true
+tasks:
+  - office
+  - home
+  - upskill
+  - repeat
